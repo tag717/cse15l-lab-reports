@@ -58,7 +58,7 @@ Try it and see what it does.
 * If Windows, follow these extra steps [here](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation).
 * This creates the private key (in `id_rsa` ) and public key (in `id_rsa.pub`). Copy the public key to the directory.
 * Example of mine ![example3](https://raw.githubusercontent.com/tag717/cse15l-lab-reports/2d031e08010f34a91ce4b69402a2a049ee4cf5ff/Screen%20Shot%202022-01-13%20at%2023.55.28.png)
-# 6. Optimizing Remote Running
-* Write command in quotes at the end of ssh command!
-* Use semicolons to run multiple commands on the same line. 
 * ![example4](https://raw.githubusercontent.com/tag717/cse15l-lab-reports/1824b889c33fe749be6167ea34b1e9c24bec08ec/Screen%20Shot%202022-01-14%20at%200.32.36.png)
+# 6. Optimizing Remote Running
+* Write command in quotes at the end of ssh command! (EX. $ ssh cs15lwi22zz@ieng6.ucsd.edu "ls")
+* Use semicolons to run multiple commands on the same line. (EX. $ cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI)
