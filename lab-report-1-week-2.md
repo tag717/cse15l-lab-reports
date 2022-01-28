@@ -33,9 +33,9 @@ Try it and see what it does.
 * Mine looked like this 
 <img src="https://github.com/tag717/cse15l-lab-reports/blob/main/Screen%20Shot%202022-01-13%20at%2023.22.28.png?raw=true" width="300" height="700" />
 
-# 4. Moving Files with "scp"
+# 4. Moving Files with `"scp"`
 
-* First, create a file in VScode called whereAmI.java . It should look something like this.
+* First, create a file in VScode called `whereAmI.java`. It should look something like this.
 
 ```
 class WhereAmI{
