@@ -70,4 +70,4 @@ scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/
 
 # 6. Optimizing Remote Running
 * Write command in quotes at the end of ssh command! (EX. `$ ssh cs15lwi22zz@ieng6.ucsd.edu "ls"`)
-* Use semicolons to run multiple commands on the same line. (EX. `$ scp WhereAmI.java cs15lwi22awx@ieng6.ucsd.edu:~/; ssh cs15lwi22awx@ieng6.ucsd.edu "javac WhereAmI.java; java WhereAmI"`). This way, we can optimize the number of keystrokes to type. The above example took me about 130 keystroks. 130 was my best record. The benefit of this semicolon and quotation marks is not only reducing the keystroks but reducing the time of waiting for the output as well.
+* Use semicolons to run multiple commands on the same line. (EX. `$ scp WhereAmI.java cs15lwi22awx@ieng6.ucsd.edu:~/; ssh cs15lwi22awx@ieng6.ucsd.edu "javac WhereAmI.java; java WhereAmI"`). This way, we can optimize the number of keystrokes to type. The above example took me about 120 keystroks. 120 was my best record after cutting down around 5 keystroks reducing the upword arrow keys. The benefit of this semicolon and quotation marks is not only reducing the keystroks but reducing the time of waiting for the output as well.
