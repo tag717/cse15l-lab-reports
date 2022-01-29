@@ -29,5 +29,5 @@ if not it breaks.
 * Error with [test-file6.md](https://github.com/tag717/markdown-parse/blob/main/test-file6.md) file. This file should not print [page.com] since it is an image with the ! sign. Therefore, we added a condition where if the '!' sign does not exist before the open paranthesis,
 we print the statement inside the closed breackets.
 
-![Image](https://github.com/tag717/cse15l-lab-reports/blob/main/images/Screen%20Shot%202022-01-28%20at%204.33.36%20PM.png?raw=true)	
+![Image](images/Screen Shot 2022-01-28 at 4.33.36 PM.png)	
 
