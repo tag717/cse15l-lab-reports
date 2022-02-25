@@ -18,7 +18,7 @@
 ---
 ## Tests
 
-![tests I made](https://github.com/tag717/cse15l-lab-reports/blob/main/images4/Screen%20Shot%202022-02-25%20at%2012.47.21%20AM.png?raw=true)
+![tests I made](https://github.com/tag717/cse15l-lab-reports/blob/main/images4/Screen%20Shot%202022-02-25%20at%203.55.00%20PM.png?raw=true)
 
 ---
 ## Output for reviewed
